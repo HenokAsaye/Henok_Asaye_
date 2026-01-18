@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Henok Asaye",
     description: "Henok Asaye, Software Engineer",
-    siteName: "AlgoEspresso",
+    siteName: "Henok Asaye Portfolio",
     images: [
       {
         url: "/logo.png",
