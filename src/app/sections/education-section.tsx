@@ -22,7 +22,7 @@ export const EducationSection = () => {
         {
             level: "BSc Degree",
             school: "Addis Ababa University, Addis Ababa Institute of Technology",
-            time: "March 2023 - July 2027 (Expected)",
+            time: "",
             achievements: ["Pursuing BSc in Software Engineering, in AI Stream."],
             ongoing: true,
         },
